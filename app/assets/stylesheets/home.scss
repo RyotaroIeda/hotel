@@ -1,0 +1,23 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+/* home/top ================================ */
+.first-view {
+	background-image: image-url('top_page.jpg');
+	background-size: cover;
+	height: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.form-area {
+	background-color: white;
+	color: black;
+	padding: 24px;
+	width: 240px;
+	height: auto;
+	margin: 0 auto;
+	
+}
